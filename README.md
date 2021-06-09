@@ -15,7 +15,7 @@ in order to make an edit of this skin, you must credit the original author of th
 ![downloadbanner](https://user-images.githubusercontent.com/69013586/121402523-fcf8bf80-c927-11eb-80f9-768ec65e83f8.png)
 # Download
 
-If you want a download shortcut, then use this link, (https://github.com/ObjectyGit/objectyosu/releases).
+If you want a download shortcut, then use this link, ["right here"](https://github.com/ObjectyGit/objectyosu/releases).
 
 
 ### modes supported:
@@ -26,3 +26,4 @@ osu!ctb <br>
 osu!taiko <br>![taikoexample](https://user-images.githubusercontent.com/69013586/121405450-12231d80-c92b-11eb-8989-9b0ee2ec1f70.png) <br>![osu!_CxnVNGNTSr](https://user-images.githubusercontent.com/69013586/121405802-76de7800-c92b-11eb-867b-dad2df358822.png)
 
 osu!mania <br>
+🚧 Not done yet 🚧
