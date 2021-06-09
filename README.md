@@ -20,7 +20,9 @@ If you want a download shortcut, then use this link, (https://github.com/Objecty
 
 ### modes supported:
 
-osu!standard <br>
+osu!standard <br>![osu!_cX35b8pYgq](https://user-images.githubusercontent.com/69013586/121406505-35020180-c92c-11eb-8527-425c9872e7f8.png)
+
 osu!ctb <br>
-osu!taiko <br>
+osu!taiko <br>![taikoexample](https://user-images.githubusercontent.com/69013586/121405450-12231d80-c92b-11eb-8989-9b0ee2ec1f70.png) <br>![osu!_CxnVNGNTSr](https://user-images.githubusercontent.com/69013586/121405802-76de7800-c92b-11eb-867b-dad2df358822.png)
+
 osu!mania <br>
