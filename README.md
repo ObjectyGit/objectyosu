@@ -33,6 +33,6 @@ if you want a download shortcut, then use this link, (https://github.com/Objecty
 
 <br>![taikoexample](https://user-images.githubusercontent.com/69013586/121405450-12231d80-c92b-11eb-8989-9b0ee2ec1f70.png) <br>![osu!_CxnVNGNTSr](https://user-images.githubusercontent.com/69013586/121405802-76de7800-c92b-11eb-867b-dad2df358822.png)
 
-osu!mania <br>
+![osumaniabanner](https://user-images.githubusercontent.com/69013586/122256520-258b3700-ce9d-11eb-8e6f-e56f7fb14b8d.png) <br>
 
 [no photos yet, please come back shortly]
